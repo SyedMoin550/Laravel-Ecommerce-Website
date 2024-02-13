@@ -1,0 +1,15 @@
+paypal credentials
+
+first make paypal developer account 
+
+gmail: hearthacker@gmail.com	
+password: PAYpal*569
+
+personal account password
+PAYpal*569
+
+business password also have same password
+
+then connect one account to the paypal sandbox (https://sandbox.paypal.com)
+
+then install the pkg srmkpaypal and open the documentation then follow the steps

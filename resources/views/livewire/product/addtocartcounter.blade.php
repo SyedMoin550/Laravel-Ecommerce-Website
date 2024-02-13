@@ -1,0 +1,3 @@
+<div>
+    {{$totalItems}}
+</div>
